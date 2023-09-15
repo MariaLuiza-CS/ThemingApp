@@ -8,7 +8,7 @@ Among the many features that make Jetpack Compose a game-changer, theming stands
 
 Let's learn how we can develop that! ❤
 
-Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/lottie-with-jetpack-compose-82117f31c25c) to see how to implement and use that.
+Check out my [post on Medium here](https://medium.com/mobile-app-development-publication/theming-in-compose-5f64ce08256c) to see how to implement and use that.
 
 </br>
 
